@@ -3,3 +3,5 @@ processor: basic # `basic|intl`
 formats:
   en: 'm/d/Y h:iA'
   lt: 'Y-m-d H:i'
+  ru: 'd-m-Y H:i'
+  ua: 'd-m-Y H:i'
